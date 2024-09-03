@@ -20,3 +20,33 @@ Rede neural artificial - A rede neural artificial consiste em modelos computacio
 informação - a informacao na programacao é o "objeto" utilizado para alimentacao do sistema, algoritmo ou banco de dados. portanto pode-se dizer que é o conjunto de dados capazes de formar referências para o sistema "alimentado"
 
 Servidor - o servidor serve para armazenar, distribuir ou administrar dados de forma centralizada, servindo como um centro de informações neste caso e portanto tais "centros" sao de muita importância por armazenar e controlar informações relevantes para milhares ou milhoes de usuários.
+
+Podemos pontuar três linguagens de programação como pilares para o desenvolvimento tecnológico, primeiro temos o python, destacando-se por ser muito legível e consecutivamente de fácil aprendizado, tal linguagem é muito forte hoje em dia e amplamemte utilizada para a programação de alto rendimento tendo áreas como machine learning e extração de dados como fortes expoentes de desenvolvimento.
+Outra linguagem é o Java, que possui propósito amplo e fácil execução pois tal liguagem pode ser executada em diversas plataformas sem que seja necessária a alteração de sua forma, essa característica proporciona a ampla difusão de seus códigos no meio de computadores móveis (celulares) por meio de aplicativos, que em grande parte são desenvolvidos em tal linguagem. O JAVA é caracterizadop por ser uma linguagem compilada, sendo então um codigo fonte compilado em bycode e posteriormente executado por uma maquina virtual java.
+Por último temos a C++, que é traduzida diretamente em  código de máquina, tornando-a de rápida execução e eficiente, além de ser uma linguagem considerada de nível médio. Muito utilizada para programas mais complexos como software e jogos, estes de maior rendimento e complexidade dos que os presentes em JAVA.
+
+JAVA: 
+Copy code
+// Exemplo em Java: Olá, Mundo!
+public class Olá, Mundo! {
+    public static void main(String[] args) {
+        System.out.println("Olá, mundo!");
+    }
+}
+
+PHYTON: 
+Copy code
+# Exemplo em Phyton: Olá, Mundo! 
+print("Olá, Mundo!")
+
+C++: 
+cpp
+Copy code
+// Exemplo em C++: Olá, Mundo!
+#include <iostream>
+using namespace std;
+
+int main() {
+    std::cout << "Olá, mundo!" << std::endl;
+    return 0; 
+}
