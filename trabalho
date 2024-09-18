@@ -50,3 +50,19 @@ int main() {
     std::cout << "Olá, mundo!" << std::endl;
     return 0; 
 }
+
+Trabalho semana 05
+
+for i in range(1, 6):
+    print(f"Número: {i}")
+https://www.mycompiler.io/view/4HmeOe9eRE6
+
+numero = 7
+
+if numero > 0:
+    print(f"O número {numero} é positivo.")
+elif numero < 0:
+    print(f"O número {numero} é negativo.")
+else:
+    print("O número é zero.")
+https://www.mycompiler.io/view/Gqtnu5ivIfQ
